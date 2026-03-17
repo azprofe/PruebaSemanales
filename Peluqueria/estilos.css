@@ -1,0 +1,15 @@
+.clienta, .peluquera {
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    margin: 100px auto;
+    width: 50%;
+    border: solid 1px #ba5757;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.formulario {
+    margin: 10px;
+}
